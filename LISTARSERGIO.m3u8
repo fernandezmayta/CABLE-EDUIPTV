@@ -1,0 +1,604 @@
+#EXTM3U
+#EXTINF:72,eltrece
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=eltrece&u=regio36&exp=1794100665&sig=0f0b17b24a0c0e205947d0b83394fc2386cdfa44eb81cbba770bebd892aceb8e&f=.m3u8
+#EXTINF:72,Telemundo 51
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=telemundo51&u=regio36&exp=1794100665&sig=7cc9f4fa6e21e8b421b78e4ded0db9be6dc28165768292101c973fe5764cac8f&f=.m3u8
+#EXTINF:0,Telemundo Puerto Rico
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=telemundopuertorico&u=regio36&exp=1794100665&sig=59da92ad89bed854416f8d9183cdeb0d9c824eb4b47dee639bceaa49b619af36&f=.m3u8
+#EXTINF:0,Univision
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=univision&u=regio36&exp=1794100665&sig=828c5096e30a819bd6066b76e125436e4776fe9a3b760177613ec1f40ec87020&f=.m3u8
+#EXTINF:0,Pasiones
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=pasiones&u=regio36&exp=1794100665&sig=fc124eb4a40e6732019cf0dc1e5367697644f6e68ccc2677f8299cd530bb6897&f=.m3u8
+#EXTINF:0,TLNovelas
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=tlnovelas&u=regio36&exp=1794100665&sig=ff819f06c345c71d7b1029f72ffe89d847b1936bdebdf40ffca2c8f67cf25084&f=.m3u8
+#EXTINF:0,Las Estrellas
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=lasestrellas&u=regio36&exp=1794100665&sig=bc10fe80eb33f8b2b378970fd15c2c16cca48d95d1f921bd0e54f35b7818e6e3&f=.m3u8
+#EXTINF:0,Antena 3
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=antena3&u=regio36&exp=1794100665&sig=662ae2bed1bafcacadd92793b8496c23c666c48ac7b52da6a0956c76d14cabae&f=.m3u8
+#EXTINF:0,DW Español
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=dwespanol&u=regio36&exp=1794100665&sig=2e10209930234ff684eb227d4de127e82182dfcec38689f83b69a14e089056ab&f=.m3u8
+#EXTINF:0,Caracol
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=caracol&u=regio36&exp=1794100665&sig=17636ac1365c2958bd319e255a328035c7a683a75e69238e8f38d20dfdfebbe7&f=.m3u8
+#EXTINF:0,RCN
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=rcn&u=regio36&exp=1794100665&sig=0585c88f7a82333419b29ded09b92f57a96d9f292631354633ca781e4286e666&f=.m3u8
+#EXTINF:0,Latina
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=latina&u=regio36&exp=1794100665&sig=66757f85b00d566c601145c9666eb9cce12893b51c07d1d7a8073ee3409a1436&f=.m3u8
+#EXTINF:0,América TV
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=americatv&u=regio36&exp=1794100665&sig=23ae540f1139969801fef7dffa474a958ffa5d273f27ae6b9a667e659bb91a5e&f=.m3u8
+#EXTINF:0,ATV
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=atv&u=regio36&exp=1794100665&sig=a12c1b7903111963e31f0dbf3b448c6445a380bb0f1deab4065b0aec96c2a98d&f=.m3u8
+#EXTINF:0,Imagen TV
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=imagentv&u=regio36&exp=1794100665&sig=538075b4f85df8e76de46e9a6ef61ad9aa3b90f3fac7580f516a3e15366a5e07&f=.m3u8
+#EXTINF:0,Unicable
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=unicable&u=regio36&exp=1794100665&sig=9c2d790cac069cf9b3db0d30b8ed4941dc0a50022ad5433ee5484b4e84929d2d&f=.m3u8
+#EXTINF:0,Azteca 7
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=azteca7&u=regio36&exp=1794100665&sig=b99f88065ee20fc21a4ec2b5d0206ff99ec8b45ce3913d515007ed33d7a654a2&f=.m3u8
+#EXTINF:0,Canal 5
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=canal5&u=regio36&exp=1794100665&sig=083684692a37a5d1b683c06479839c6eb46371f8a4e1498aadc31ff86d8a6cdf&f=.m3u8
+#EXTINF:0,TNT Novelas
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=tntnovelas&u=regio36&exp=1794100665&sig=4ddfac815ea5f9da19e3ad8c8bec7ee56fee3b9eb4e5d80a7fb6912402f5167a&f=.m3u8
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=disneychannel&u=regio36&exp=1794100665&sig=2bc6416b0e5376cb2aacbb162fe68c648e3289bec1f41a1038374361646eef4d&f=.m3u8
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=cartoonnetwork&u=regio36&exp=1794100665&sig=0f36b8bf722d8ed2dea816c717a71c643369b02cab373090bcaf4a7ec450618e&f=.m3u8
+#EXTINF:0,Tooncast
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=tooncast&u=regio36&exp=1794100665&sig=8ce738655275fbc466430609f76a472ab29b4f1f9e4e7132fe50f717edc6f11a&f=.m3u8
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=discoverychannel&u=regio36&exp=1794100665&sig=a4ff97ca8531e8372703a2044c23900271d6d1f79d9007a9d801908f6c208675&f=.m3u8
+#EXTINF:0,ID Investigation
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=idinvestigation&u=regio36&exp=1794100665&sig=8e0f93f893cd1c0ecbff99caa2422f0254e683c63e693da84006fc7cf57308f3&f=.m3u8
+#EXTINF:0,Discovery H&H
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=discoveryhyh&u=regio36&exp=1794100665&sig=a56089a89d6c232e268e2e9885f2157e7f0c56828e49bce83b302861420ebba9&f=.m3u8
+#EXTINF:0,History
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=history&u=regio36&exp=1794100665&sig=90964e7544cfd968b4154f960b2cbe54304bf2d83865037cc79214d828d52e7e&f=.m3u8
+#EXTINF:0,History 2
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=history2&u=regio36&exp=1794100665&sig=f3b53853219446e38fbbe6ad116193f6e8b129a66956a41a8059ad7c034ba7b4&f=.m3u8
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=animalplanet&u=regio36&exp=1794100665&sig=79c88520d0e2c49744d1995c92a676150116a05dc2b148a9083409522c7d11f7&f=.m3u8
+#EXTINF:0,Nat Geo
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=natgeo&u=regio36&exp=1794100665&sig=26439ffd824ec6a56c47e17be68b79eabbfbac619699bd01ce7371ebe65628bc&f=.m3u8
+#EXTINF:0,Universal TV
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=universaltv&u=regio36&exp=1794100665&sig=51bea07b3376a43309ec7cb7ba8986bfcd3f723d118c8066f87d63403513be9b&f=.m3u8
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=tnt&u=regio36&exp=1794100665&sig=cf058aa4e08a65154a8e9ca4a7876185913af004651cdde7916edfc3d006477f&f=.m3u8
+#EXTINF:0,TNT Series
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=tntseries&u=regio36&exp=1794100665&sig=3c9deddf1f19db05923e2dc505ad3157b937bb8ba8b0494f7fa15542ff47f889&f=.m3u8
+#EXTINF:0,Star Channel
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=starchannel&u=regio36&exp=1794100665&sig=2467c66c4f75cca3d61afa54ea780e3b76fbb9e9bdc06892df3b1e8c71c5790e&f=.m3u8
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=cinemax&u=regio36&exp=1794100665&sig=b6555fe6dd8df1396ed23904ac8024bb15a1d0ed649d97a40c9e0f5b970a1af8&f=.m3u8
+#EXTINF:0,Space
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=space&u=regio36&exp=1794100665&sig=6a8def54e5f3366bbd89193142aeb067473462d799f37d528ab925edf188d420&f=.m3u8
+#EXTINF:0,Warner Channel
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=warnerchannel&u=regio36&exp=1794100665&sig=987e5e380f212fab6a54a181fb147057310c8f5985b2a6e4d4c818518d8a8870&f=.m3u8
+#EXTINF:0,Cinecanal
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=cinecanal&u=regio36&exp=1794100665&sig=80d2afc7233ccaa18e95b6d9e106102fdc871b02582ffb65bd439489587d2601&f=.m3u8
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=fx&u=regio36&exp=1794100665&sig=5077d5f22c68ac97168e9638acc0a0f06fa7b49611ca965efcfd68af42a3edd1&f=.m3u8
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=axn&u=regio36&exp=1794100665&sig=afe35174d3b0ab4e3802e87d554a3fce1340d962d6efa64533355ed0328f6922&f=.m3u8
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=amc&u=regio36&exp=1794100665&sig=4770ae4b5ebd90d9c031bb96155f8f0c691fdc61d1eec65fc5931c2bae208c23&f=.m3u8
+#EXTINF:0,Studio Universal
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=studiouniversal&u=regio36&exp=1794100665&sig=85228406019a1a668dd07fde75eb9101ffe7c2ac06fd9f1b40f747824aa8216c&f=.m3u8
+#EXTINF:0,Multipremier
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=multipremier&u=regio36&exp=1794100665&sig=75a586592a599d058adae3996924f3528ee7d757b1b521fe7046be005c1d398b&f=.m3u8
+#EXTINF:0,Golden
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=golden&u=regio36&exp=1794100665&sig=b1ad84a8ddb6fe3253b4febfee94fbbd883b1fc9055e678143c09199996f1a16&f=.m3u8
+#EXTINF:0,Golden Plus
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=goldenplus&u=regio36&exp=1794100665&sig=2a72265a21a55551d90900c33ad17706051a6bd01a5e3c17474639892eb2dc85&f=.m3u8
+#EXTINF:0,Golden Edge
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=goldenedge&u=regio36&exp=1794100665&sig=087b7fb34860256de168e5efcac617f5f25c862e7faed6209f3185caa5cff017&f=.m3u8
+#EXTINF:0,Golden Premier
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=goldenpremier&u=regio36&exp=1794100665&sig=d430a690f4e66d7979d18921ae45a12b1787ac9880201c18438e493294b4023f&f=.m3u8
+#EXTINF:0,Canal Sony
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=canalsony&u=regio36&exp=1794100665&sig=4adc303ee80ee4cc99f0700aa0a2435ef0d92bfb487114d0308dde0c26cd649a&f=.m3u8
+#EXTINF:0,Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=distritocomedia&u=regio36&exp=1794100665&sig=333549220e87beee4478ef48b15c00968b1adf5a8f33cd1750753703eab8bd6c&f=.m3u8
+#EXTINF:0,Eventos
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=eventos&u=regio36&exp=1794100665&sig=4038277da9623ac1cab17096cac4a334d3fcd7d6a840b8b83dfc24ea614106d3&f=.m3u8
+#EXTINF:0,beIN Sports Xtra
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=beinsportsxtra&u=regio36&exp=1794100665&sig=91b2a29ffc8c2e75cbe3692f3d3d2f031e96fe78246252ca016761ed00346629&f=.m3u8
+#EXTINF:0,Liga 1
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=liga1&u=regio36&exp=1794100665&sig=a816e07acfac3fda0ab5005f1823365bcc13f17e1c7a944675df7ea3c4417cd0&f=.m3u8
+#EXTINF:0,Liga 1 Max
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=liga1max&u=regio36&exp=1794100665&sig=9ee4aa4be5bcdf20618774965869181351089512acae189969331b6d2b58b977&f=.m3u8
+#EXTINF:0,TUDN
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=tudn&u=regio36&exp=1794100665&sig=72434bcbf909e36427ac1b1404fa846db65b1f4f22a205a0548ea30574b17c28&f=.m3u8
+#EXTINF:0,Sky Sports LaLiga
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=skysportslaliga&u=regio36&exp=1794100665&sig=26c283ebf4e8b04302d726b1f31cf9b6c91d50a585f4751b7c6d839ea36398bd&f=.m3u8
+#EXTINF:0,Fox Sports Premium
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=foxsportspremium&u=regio36&exp=1794100665&sig=48d28e683a2562cc2d9c006d0bb86c6c5b4e599886061634ddff47e01da8b175&f=.m3u8
+#EXTINF:0,TyC Sports
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=tycsports&u=regio36&exp=1794100665&sig=9f46606192d172708ca55e42d9f87c8490547b4e5f6b6fe0672f6830c30db8dd&f=.m3u8
+#EXTINF:0,Movistar LaLiga
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=movistarlaliga&u=regio36&exp=1794100665&sig=c339b0b69ff665e65883574d27bdf9b75c917cbb239f9abe6d8ef5ff85599214&f=.m3u8
+#EXTINF:0,Movistar Liga de Campeones
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=movistarligadecampeones&u=regio36&exp=1794100665&sig=27b854c71e70c2c745ec762cd0095ac0946cbb42b0d144a5ac4f4005576375ac&f=.m3u8
+#EXTINF:0,DIRECTV Sports
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=directvsports&u=regio36&exp=1794100665&sig=ca54f10f0fd6b0a9569be640484f641e8e369e45e30ffaff041c35ec3df7205e&f=.m3u8
+#EXTINF:0,DIRECTV Sports 2
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=directvsports2&u=regio36&exp=1794100665&sig=2d922f790f41c58331d0ecd96a8030e5ef8ef3119d3aeb2b1c2acf3af1425fb7&f=.m3u8
+#EXTINF:0,DIRECTV Sports Plus
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=directvsportsplus&u=regio36&exp=1794100665&sig=e43980dd99d64612e8a50fb5b1cdc55c7f923f0e6f0b9d2b9f89a57a8b8f9c6b&f=.m3u8
+#EXTINF:0,ESPN Premium LAT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espnpremiumlat&u=regio36&exp=1794100665&sig=faff2b9bfb98fe30e87ee833973adc2474075fd89f0e05c6c805fd3270962c46&f=.m3u8
+#EXTINF:0,ESPN Premium AR
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espnpremiumar&u=regio36&exp=1794100665&sig=584f8f29ad09c58af5a7525a9eac73517fec497c86aa18e07046f2cc78a4c8af&f=.m3u8
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espn&u=regio36&exp=1794100665&sig=1067feb73fa30741b951f9d290fab72a683c46d929756f3753d97897952b6081&f=.m3u8
+#EXTINF:0,ESPN Argentina
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espnar&u=regio36&exp=1794100665&sig=edbcd189e1bc109d815e086d458c031724b14de50914acd809f11378de6e84a3&f=.m3u8
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espn2&u=regio36&exp=1794100665&sig=ec6c3f302bba78cd0df477aa75337169e999626f4702ee179540b5b7d5468661&f=.m3u8
+#EXTINF:0,ESPN 3
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espn3&u=regio36&exp=1794100665&sig=d1d86e00e3fe55b1cdfc3714235fdb12deb11ccbccb99c6c973f1e85e7acf28b&f=.m3u8
+#EXTINF:0,ESPN 4
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espn4&u=regio36&exp=1794100665&sig=6ad562d75ddadc842a141f7b5d9e866dac0bdc192d6ec3e88b381b15d62f2fbe&f=.m3u8
+#EXTINF:0,ESPN 5
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espn5&u=regio36&exp=1794100665&sig=bcba0af54047a82e315fdaa683c6750a0f74287fc51823c9e37dd06c72f928c0&f=.m3u8
+#EXTINF:0,ESPN 6
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espn6&u=regio36&exp=1794100665&sig=378e165b8f028ce81b7ce1a7186c6ba0015fdea256d5e902979707488fa6ddbe&f=.m3u8
+#EXTINF:0,ESPN 7
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espn7&u=regio36&exp=1794100665&sig=66353a6470558486f2d04b9286bb8b09e94f6f3405a2f9df5bbf980b9c1d6c83&f=.m3u8
+#EXTINF:0,ESPN México
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espnmexico&u=regio36&exp=1794100665&sig=752f3fed016287291b0f7995c2be4d265c6c693aa156cc4705f82e4f136fca71&f=.m3u8
+#EXTINF:0,ESPN 2 México
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espn2mexico&u=regio36&exp=1794100665&sig=07e4b057d85accad5dfa8d0848c90ec85f33731bb4423c81cfdb9d9348061758&f=.m3u8
+#EXTINF:0,ESPN 3 México
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espn3mexico&u=regio36&exp=1794100665&sig=d0c7e29ae3a56954ddced80bfba9ac513aa323e1b56864c4a408d76d4093725c&f=.m3u8
+#EXTINF:0,ESPN 4 México
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espn4mexico&u=regio36&exp=1794100665&sig=f78548aae5f85ea8c1daf9b7cf914a261dcdc7f4edff10c8bd529f9bd005731e&f=.m3u8
+#EXTINF:0,ESPN 5 México
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=espn5mexico&u=regio36&exp=1794100665&sig=dc7859ea88e89e8bc6a71c83bb4a1a6bfe32f8ad3e3d67dd04b45f21d09a2823&f=.m3u8
+#EXTINF:0,Fox Sports
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=foxsports&u=regio36&exp=1794100665&sig=fe058a08ab9e9eea0d0e21b372c41cc1d9195e96c69b4424e91c554caf9e3de8&f=.m3u8
+#EXTINF:0,Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=foxsports2&u=regio36&exp=1794100665&sig=fc020d26da77e7395042f952ec7cd35a817d112a1a8ee5e1fa68985c86bf1564&f=.m3u8
+#EXTINF:0,Fox Sports 3
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=foxsports3&u=regio36&exp=1794100665&sig=974c2a937e11e19c86845927354700280da8edecbeb0495dab313a9a5b93392d&f=.m3u8
+#EXTINF:0,Fox Sports México
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=foxsportsmexico&u=regio36&exp=1794100665&sig=7e88e6e31e1ff0907a1d76a0c7421337cc260134c7015d4f04a5dc7894f78aec&f=.m3u8
+#EXTINF:0,Fox Sports 2 México
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=foxsports2mexico&u=regio36&exp=1794100665&sig=214311f5b552d663fb5a034023ea4038a78a616a2ea15991da8d117d7dff6b72&f=.m3u8
+#EXTINF:0,Fox Sports 3 México
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/tele_m3u.php?canal=foxsports3mexico&u=regio36&exp=1794100665&sig=0a38c50e3ea824660878e09def8620ca35849f3979db4dcf8a8dca6cff1a2bdf&f=.m3u8
+#EXTINF:0,Canal Once
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=Canal%20Once&u=regio36&exp=1794100665&sig=39aff7e8b1060047fb9871aa56ab12b1141e8c592df1b3183baa0918f97832bc&f=.m3u8
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=A%26E&u=regio36&exp=1794100665&sig=d139ea3cb9149a0f56f699f9b5c3fd68c7f747424c8d1373a77a55e45edd0139&f=.m3u8
+#EXTINF:0,A+
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=A%2B&u=regio36&exp=1794100665&sig=b2c136402b6727bfb7cbf8eb6f5ce1cfa09aa59cc5c095e76d97fd94cf209ff1&f=.m3u8
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=Animal%20Planet&u=regio36&exp=1794100665&sig=a89329697bf26cddffef8767db9fd2a2b1969183d4564b3ea5358c01a2231dad&f=.m3u8
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=AXN&u=regio36&exp=1794100665&sig=71485e9720cc524e2b545641f6f48c0b14ee4394a0bb63cfc2ca9b09237dce69&f=.m3u8
+#EXTINF:0,Azteca 7
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=Azteca%207&u=regio36&exp=1794100665&sig=505ea006d1cebb124d2f1c5218afb2fadf2aafd37059e51faa4586cce0415951&f=.m3u8
+#EXTINF:0,Baby first
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=Baby%20first&u=regio36&exp=1794100665&sig=0557b586a1b211109af5ad832ef772623719ef8fbd5b149ee52c279508717395&f=.m3u8
+#EXTINF:0,Bitme
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=Bitme&u=regio36&exp=1794100665&sig=c1e6fd3141291b9406b20b0d513f5b0d8d123c32159697f61c269cdf66e00270&f=.m3u8
+#EXTINF:0,Bob Esponja
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=Bob%20Esponja&u=regio36&exp=1794100665&sig=7a35c32cd7c30a80ce0d49ac9a133936354fcf3edd4fa552324ef1953084d372&f=.m3u8
+#EXTINF:0,DISNEY
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=DISNEY&u=regio36&exp=1794100665&sig=847c885153ca3a4ebfa94dd651bc08be985d63fb39cc545fa7c2e992f7bc6376&f=.m3u8
+#EXTINF:0,GARAGETV
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=GARAGETV&u=regio36&exp=1794100665&sig=c2ae7c227ba8012c72f376e07d3cdb3476306909cbee2f81727d2ca0aa6fe9c2&f=.m3u8
+#EXTINF:0,NETTV
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=NETTV&u=regio36&exp=1794100665&sig=cae7464bf5ea14842ca6f88d8fdde58778cb3d8c0091a2d44b1d7198769ca275&f=.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=HBO&u=regio36&exp=1794100665&sig=ce169855472fd3a1b93c738ca38a321778435cd7373a93e3e9cd0cb30064f7d1&f=.m3u8
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=HBO%202&u=regio36&exp=1794100665&sig=890510f728a9e5c8de81b14b393c62045ccb4d712f472d9ec8aba09e033afb60&f=.m3u8
+#EXTINF:0,BEIN SPORTS XTRA
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=BEIN%20SPORTS%20XTRA&u=regio36&exp=1794100665&sig=ba50771f8e5436085d14c40be0dad49379da0c6951f0a53c4d0dfab782e3aed3&f=.m3u8
+#EXTINF:0,AZTECA INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=AZTECA%20INTERNACIONAL&u=regio36&exp=1794100665&sig=fa84fdf897a45e3d760133196c7562f6ae90a660159ad09896977203f8ab8f1c&f=.m3u8
+#EXTINF:0,IMAGEN TV
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=IMAGEN%20TV&u=regio36&exp=1794100665&sig=9ff7d9b4cd86721ece311d63daabc1e748ca10b640a1a4120b46a74bf341fed9&f=.m3u8
+#EXTINF:0,MILENIO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=MILENIO&u=regio36&exp=1794100665&sig=958677ee9003a11b5c658b6ec613e39978a5ceff9b940cef8b40dba363ef1158&f=.m3u8
+#EXTINF:0,LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=LAS%20ESTRELLAS&u=regio36&exp=1794100665&sig=68b16b42cf7d79b8adc26d3f13185d5cf17d23ddd887b086ff4e1f706d01401c&f=.m3u8
+#EXTINF:0,POPCORN CENTRAL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=POPCORN%20CENTRAL&u=regio36&exp=1794100665&sig=8490ec0b8d34ebe69ed577f00bb2af3115e17a59d81b2f1b4ac99bf8ff8f25ab&f=.m3u8
+#EXTINF:0,FOX DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=FOX%20DEPORTES&u=regio36&exp=1794100665&sig=d91650cfa746d239bb994d72f59c8b48259c7f3238d79579dbc61f0cb19605ee&f=.m3u8
+#EXTINF:0,ESPN LAT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%20LAT&u=regio36&exp=1794100665&sig=4df61f25a94f5e192547c55e7234ea082c02cd5c47529b24f5d136e1da772bee&f=.m3u8
+#EXTINF:0,ESPN 2 LAT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%202%20LAT&u=regio36&exp=1794100665&sig=9b07bda23b9f80faa52e55853918e2c3c044312427b077fbffc57203b19afab4&f=.m3u8
+#EXTINF:0,ESPN 3 LAT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%203%20LAT&u=regio36&exp=1794100665&sig=48f39b70950cd2567c38c6f8c0529024f2ecd7bb108af86069a29553a719a2c7&f=.m3u8
+#EXTINF:0,ESPN 4 LAT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%204%20LAT&u=regio36&exp=1794100665&sig=e46334ac7db879440d17bd331a9cd9cc2f478a8b3980e37be9a78ad4a78e4471&f=.m3u8
+#EXTINF:0,ESPN 5 LAT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%205%20LAT&u=regio36&exp=1794100665&sig=40c2c6f233d1a9c4a4153fc5f9c658ca4146b1386fe76c01ba086524bede6a09&f=.m3u8
+#EXTINF:0,ESPN 6 LAT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%206%20LAT&u=regio36&exp=1794100665&sig=a9084df0520c8ec4ad4092c21e52e693dc198ef918f00cbedeadb7e46fb88380&f=.m3u8
+#EXTINF:0,ESPN 7 LAT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%207%20LAT&u=regio36&exp=1794100665&sig=586b661782f52018b4cab9485efe3b304ba37eebebdb0499038db59508fabaf4&f=.m3u8
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=FX&u=regio36&exp=1794100665&sig=c7a4f565165d72d7fe66ec20f98f5a3be64a9bb1224f8058f7e4d84b0407fa30&f=.m3u8
+#EXTINF:0,COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=COMEDY%20CENTRAL&u=regio36&exp=1794100665&sig=a83b085be22f205acaa79e7bfa95b7c881596fc83f72468a7eab456eb2459baa&f=.m3u8
+#EXTINF:0,NICK JR
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=NICK%20JR&u=regio36&exp=1794100665&sig=8530ab1b8c7f4471c389fa840743a256d9b1a5b0e8e5a904465d0022f11879c2&f=.m3u8
+#EXTINF:0,NICK
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=NICK&u=regio36&exp=1794100665&sig=d66ecbfb63e7b27bf3695527f3967311b8b8d7aad826567b857ff505c2053632&f=.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=MTV&u=regio36&exp=1794100665&sig=fc078abdc759c310a6c2d801a040a8b2f1730db418557219adc91c1f21a3f89f&f=.m3u8
+#EXTINF:0,NATGEO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=NATGEO&u=regio36&exp=1794100665&sig=0a5e456274cec962153edeac3114092d7f124a78f400511dcdcdf480730199ab&f=.m3u8
+#EXTINF:0,ESTRELLA GAMES
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESTRELLA%20GAMES&u=regio36&exp=1794100665&sig=5a478ead81d44722361705af2c88a331cbe38e41572d1652e4fb3e8ad3ae123f&f=.m3u8
+#EXTINF:0,ESTRELLA TV
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESTRELLA%20TV&u=regio36&exp=1794100665&sig=f455d68252234962dbca89c4f3145a81338922cc6b5fc7034c41476fd86fe018&f=.m3u8
+#EXTINF:0,LIFETIME
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=LIFETIME&u=regio36&exp=1794100665&sig=e48e6c3597aad8a8b1f32196719087437cbb6c3990852565648d8f89e75f3d3a&f=.m3u8
+#EXTINF:0,RCN
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=RCN&u=regio36&exp=1794100665&sig=e81b7fdc046369343ee0f3e0ce327d223807c1d610c04bc3f1bec348ccdc3059&f=.m3u8
+#EXTINF:0,RCN MAS
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=RCN%20MAS&u=regio36&exp=1794100665&sig=9387f05ac44e5f796b375bb5b8c32f5c33113d4fabd7b02606da9ac470b65e36&f=.m3u8
+#EXTINF:0,RCN NOVELAS
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=RCN%20NOVELAS&u=regio36&exp=1794100665&sig=078830e5366a2f56dc115f5ba82645fc35803e9bcbd5b1f48fdd3a02fa6330b3&f=.m3u8
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=AMC&u=regio36&exp=1794100665&sig=d3dd8643586183f1d68f8e239199e6a5b5a4d4f76b12a96e8665455615b05ca9&f=.m3u8
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=AMC%202&u=regio36&exp=1794100665&sig=c24a0cc5b7d78b0698e2810a62470dc8103383a83531f2dfa52dec62783b6acb&f=.m3u8
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=AMC%203&u=regio36&exp=1794100665&sig=340e0d07b0dae0bef01849bcf4ae96752fea503119436f0f9bac33fd178a6b6f&f=.m3u8
+#EXTINF:0,TOONCAST
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TOONCAST&u=regio36&exp=1794100665&sig=a70907f442623cee514f9b759f93f6a6dd4370cae09fcadf0ade3e26b2360df8&f=.m3u8
+#EXTINF:0,UNIVISION
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=UNIVISION&u=regio36&exp=1794100665&sig=c3a4fa46f72943d6bc0165b1981b95d6ce82901754ad7c307452fbd329bd7639&f=.m3u8
+#EXTINF:0,TELEMUNDO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TELEMUNDO&u=regio36&exp=1794100665&sig=6046f32ede86130cd1c55c0607e85761d6b41c765941460b1b5b82a63d6de519&f=.m3u8
+#EXTINF:0,UNIMAS
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=UNIMAS&u=regio36&exp=1794100665&sig=1b72cc532dd7be1eb024e21b8a300a87aa809cf1fb9ad4ea8767f69b98bef897&f=.m3u8
+#EXTINF:0,CINEMAX
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=CINEMAX&u=regio36&exp=1794100665&sig=fb5273f256da3efd45dc6b3ce9e41ff2bbe5c556c7f2ea0274e0023b4ecc3a2b&f=.m3u8
+#EXTINF:0,BANDAMAX
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=BANDAMAX&u=regio36&exp=1794100665&sig=aff0c5457a415cfb7e6934fde6295445d032b917841018027e918ae568efdf43&f=.m3u8
+#EXTINF:0,CINECANAL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=CINECANAL&u=regio36&exp=1794100665&sig=242abd58daee32983397e5c1db2a399dc1943687b45354a578c0b68765f91574&f=.m3u8
+#EXTINF:0,DPELICULA
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=DPELICULA&u=regio36&exp=1794100665&sig=e2d178243d6f91af1fd2d6467022ee27aa80ebddd3e9378e4dfa7b2d8ab4e673&f=.m3u8
+#EXTINF:0,COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=COMEDY%20CENTRAL%202&u=regio36&exp=1794100665&sig=0e4e8c6420fc379298202bc8905d0f50e37d4ae13a9634c9a6c7865bf0f4195b&f=.m3u8
+#EXTINF:0,DHE
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=DHE&u=regio36&exp=1794100665&sig=4980b4c9b1e0a67771ffd682b2f1dbcf81e8b3cb46d4b28f8e408e0331561609&f=.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=DISCOVERY%20CHANNEL%202&u=regio36&exp=1794100665&sig=cc41814371b156f817de49f0821a017940cf753ce5f8eb49d56ae32b2e44f31d&f=.m3u8
+#EXTINF:0,DISCOVERY CHANNEL 2
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=DISCOVERY%20CHANNEL%203&u=regio36&exp=1794100665&sig=22f8e261f777cb7e8783b2b67aa3237ef9b7c0f4079fe45edb2370b393669c12&f=.m3u8
+#EXTINF:0,DISCOVERY ID
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=DISCOVERY%20ID&u=regio36&exp=1794100665&sig=0fa9b89fff4959b8c0cf43cf5007b27b01eb9803e3e51a6320c3413b5cc24475&f=.m3u8
+#EXTINF:0,DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=DISCOVERY%20KIDS%202&u=regio36&exp=1794100665&sig=1e291d31f1db9cac145f36ae939db1bf4d0730f3c0a4c837cbd5db86a41f2128&f=.m3u8
+#EXTINF:0,DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=DISCOVERY%20TURBO&u=regio36&exp=1794100665&sig=a68008bcd9583328ff23b8c1b3e9858e1fc6492ffceae6afde48f21b357bc90f&f=.m3u8
+#EXTINF:0,DISNEY CHANNEL 2
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=DISNEY%20CHANNEL%202&u=regio36&exp=1794100665&sig=46bcee2d44c0d34a66fa8cc5d4590fbce8d7a62f41ffa127676ebb1093ea009a&f=.m3u8
+#EXTINF:0,DISNEY JR
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=DISNEY%20JR&u=regio36&exp=1794100665&sig=7e228933e1d5b73881be19a5cb305993e2f58270bfcd7e127af2dfa0f3713c32&f=.m3u8
+#EXTINF:0,DRAGON BALL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=DRAGON%20BALL&u=regio36&exp=1794100665&sig=b1541df27382ff3a72f8b47bb9b29defd8730a4e061f89ab2d204470bedc426a&f=.m3u8
+#EXTINF:0,EL CHAVO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=EL%20CHAVO&u=regio36&exp=1794100665&sig=054721aa571f65a1b26c39ee079c030346c96602ec85951d173868c7092945b3&f=.m3u8
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%208&u=regio36&exp=1794100665&sig=17b5fcf72f4cb371c2a63d2a0eb38a2744b395779dc8bb45dd7537c62fde976f&f=.m3u8
+#EXTINF:0,ESPN COL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%20COL&u=regio36&exp=1794100665&sig=bb8d6639052e82db5c4ed33e966f0a1a78e13fae7c2b12ef494712b8ae67ee6a&f=.m3u8
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%209&u=regio36&exp=1794100665&sig=6aaa413b25b09750696a80a47a37a04d8610300c1cfb57170b2c5b50d6a265f0&f=.m3u8
+#EXTINF:0,ESPN 3
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%2010&u=regio36&exp=1794100665&sig=a99fce703d398b07eabc79dafb931cfb7d82a7930b598752086725ae5fd44dfa&f=.m3u8
+#EXTINF:0,ESPN 5
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%2011&u=regio36&exp=1794100665&sig=0da92be4eecf317f3ed6fac9237c6a7ca7aa00fd2cb5f561d4ef0fe26be30458&f=.m3u8
+#EXTINF:0,ESPN 7
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ESPN%2012&u=regio36&exp=1794100665&sig=cfee0481a6a6901fed108120cfe2cee8f73a2a3021f4c54330357bb825f8b53e&f=.m3u8
+#EXTINF:0,GOLDEN
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=GOLDEN%202&u=regio36&exp=1794100665&sig=bb13d797b0325b096e070ce43aeacf4859321d52a8f634a5e7c3c45db2ad56a3&f=.m3u8
+#EXTINF:0,GOLDEN EDGE
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=GOLDEN%20EDGE%202&u=regio36&exp=1794100665&sig=c514682706779f7116303379a7b6afe7c799f5feeeb72bafb34b4f9f28886b0e&f=.m3u8
+#EXTINF:0,HBO ALT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=HBO%20ALT&u=regio36&exp=1794100665&sig=3d34489409e1b7f06fa1f595488c5986ed3bf738ebf9d6bec3bf327906317a25&f=.m3u8
+#EXTINF:0,HBO 2 ALT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=HBO%202%20ALT&u=regio36&exp=1794100665&sig=96dc4dc29c1a0847907d2a5f19c28fae7e579da7ea5340ac06cf960456e9e4dc&f=.m3u8
+#EXTINF:0,HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=HBO%20FAMILY&u=regio36&exp=1794100665&sig=1bbfbe6e08311410776ef755d14dd14562e825105424b75e0f5751e8d4f3f668&f=.m3u8
+#EXTINF:0,HBO XTREME
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=HBO%20XTREME&u=regio36&exp=1794100665&sig=596d249a2910bd79a0e0e14200d0d4a013decddbcd9fc0bc7113413209a8276f&f=.m3u8
+#EXTINF:0,HISTORY
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=HISTORY%203&u=regio36&exp=1794100665&sig=571983a01c437954739823abbbfa5dc2945ee50ed46f628cb192bc9a4d07189b&f=.m3u8
+#EXTINF:0,HISTORY 2
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=HISTORY%202%202&u=regio36&exp=1794100665&sig=f2e678c36924404a3d8e3f172eb739f0525476b98c21f7a793f9487563fb3c69&f=.m3u8
+#EXTINF:0,MULTIMEDIOS BAJIO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=MULTIMEDIOS%20BAJIO&u=regio36&exp=1794100665&sig=b38d9484c4422f94e8683f79c1725e8af85137b2de5bcbb54cb0c418630da758&f=.m3u8
+#EXTINF:0,MULTIMEDIOS CD JUAREZ
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=MULTIMEDIOS%20CD%20JUAREZ&u=regio36&exp=1794100665&sig=3553f10f5ae0e9c2206e5cb11692eae2904a5059e0ab4599a418f70c8a3c43b6&f=.m3u8
+#EXTINF:0,MULTIMEDIOS CDMX
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=MULTIMEDIOS%20CDMX&u=regio36&exp=1794100665&sig=81a1c421ca18c89b9753dbed35777024cfdb84c80a1615551dde2cd132726f29&f=.m3u8
+#EXTINF:0,MULTIMEDIOS GUADALAJARA
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=MULTIMEDIOS%20GUADALAJARA&u=regio36&exp=1794100665&sig=9bf3acb12003200ab499530bced5267e390d9672f497fd93ea219ee8e20927b7&f=.m3u8
+#EXTINF:0,MULTIMEDIOS LAGUNA
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=MULTIMEDIOS%20LAGUNA&u=regio36&exp=1794100665&sig=8ff35775fca129fd09bd93ac38114ceca1857b6ea6f4b916cb6c4d67b58ccab7&f=.m3u8
+#EXTINF:0,MULTIMEDIOS MONTERREY
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=MULTIMEDIOS%20MONTERREY&u=regio36&exp=1794100665&sig=f8b3a1bdf2c445217b460673a529460af481d70cfebbe1438eed6cf647c702d5&f=.m3u8
+#EXTINF:0,MULTIMEDIOS PUEBLA
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=MULTIMEDIOS%20PUEBLA&u=regio36&exp=1794100665&sig=fb246a2e8785008ef7a01e7cd275c9f608e4472e8ababd43aa4fe958aa2d9c25&f=.m3u8
+#EXTINF:0,MULTIMEDIOS SALTILLO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=MULTIMEDIOS%20SALTILLO&u=regio36&exp=1794100665&sig=48f8e8b5603fd04bcd78ecb3b433b6ff7d55580b6b90ab78073a8c0f969fddbd&f=.m3u8
+#EXTINF:0,N+
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=N%2B%202&u=regio36&exp=1794100665&sig=1c04f3650ea0f6f7862187aa1318372af176a3928cc1d0bd32f283b1a7e63203&f=.m3u8
+#EXTINF:0,N+ GUADALAJARA
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=N%2B%20GUADALAJARA&u=regio36&exp=1794100665&sig=ae1f1a5fcce8bcc2e02365b4d9b7b181a57d6a361d39940939900e942e56e932&f=.m3u8
+#EXTINF:0,N+ MEDIA
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=N%2B%20MEDIA&u=regio36&exp=1794100665&sig=3efc0e70b8cdcd68aaccdff1493a39c4b27d26654a27226ce14a7384f759905d&f=.m3u8
+#EXTINF:0,N+ MONTERREY
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=N%2B%20MONTERREY&u=regio36&exp=1794100665&sig=9fe69fe07c253c39a22704408ca93aadd01ac093f420e2ec42bfce00f23bcafd&f=.m3u8
+#EXTINF:0,NAT GEO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=NAT%20GEO%202&u=regio36&exp=1794100665&sig=5dacf81cc95d03af5674240ee9e6062b1a874b89ab01f0f77bab9661c047c4c7&f=.m3u8
+#EXTINF:0,NICK 2
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=NICK%202&u=regio36&exp=1794100665&sig=8e967336fb7ae413d0a71010b012d5674f4d0a4069e05c46d5a8d7c477ce5985&f=.m3u8
+#EXTINF:0,NICK JR 2
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=NICK%20JR%202&u=regio36&exp=1794100665&sig=c6c314c13545379e5b33b376d668ba7be4a0e9a3badc0b0677c75afa6fd3321d&f=.m3u8
+#EXTINF:0,ENT CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ENT%20CHANNEL&u=regio36&exp=1794100665&sig=9a4b732279bc9ee341b6bcf61832344811858811ba08882c5a4b92e113a468d2&f=.m3u8
+#EXTINF:0,ENT FAMILY
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ENT%20FAMILY&u=regio36&exp=1794100665&sig=9d524b98b59e0f0b164276996dc23c99d9c74019cafe249903e9584edc97a0c7&f=.m3u8
+#EXTINF:0,TOTAL MUSIC
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TOTAL%20MUSIC&u=regio36&exp=1794100665&sig=af3e68e037fe5692e9044ebde19272feea3cb244c3aa4755885e21f6e4a64eca&f=.m3u8
+#EXTINF:0,TOTAL MUSIC 80S
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TOTAL%20MUSIC%2080S&u=regio36&exp=1794100665&sig=698878e8d8eb54dc1ddb2c33f7ca1a88f158fa9ee79663ba70b6c16bfbb77f1f&f=.m3u8
+#EXTINF:0,TOTAL MUSIC 00S
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TOTAL%20MUSIC%2000S&u=regio36&exp=1794100665&sig=4ef40ddde631515aa1c71f64603d40f69c20121d6b93a92c0f865d47ce8f4ae5&f=.m3u8
+#EXTINF:0,SPACE
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=SPACE%202&u=regio36&exp=1794100665&sig=7537b6e5b569f0aa5b6c7be80fde8f96841acdb32c43dcdd2abd9bc76fef71c8&f=.m3u8
+#EXTINF:0,STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=STAR%20CHANNEL%202&u=regio36&exp=1794100665&sig=fe2830439593bbed336659e6dfcc0a4139d25f12a1ee8e01f54a71c724f39d63&f=.m3u8
+#EXTINF:0,STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=STUDIO%20UNIVERSAL%202&u=regio36&exp=1794100665&sig=3d3a88586884966555b414012abe2b0d1d1a4cbf89dfe6a7bb6843410fcd37b0&f=.m3u8
+#EXTINF:0,TELEMUNDO INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TELEMUNDO%20INTERNACIONAL&u=regio36&exp=1794100665&sig=bcb1928a49463629e980de563590bd77dc5c6a0522ab932d4ad399b3ef94e5ad&f=.m3u8
+#EXTINF:0,TELEMUNDO 51
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TELEMUNDO%2051%202&u=regio36&exp=1794100665&sig=069bb4f24a742b527a12d09da1087979ba44fe209f8fc44acfbcbe9cc6512e70&f=.m3u8
+#EXTINF:0,TELEMUNDO PUERTO RICO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TELEMUNDO%20PUERTO%20RICO%202&u=regio36&exp=1794100665&sig=686709c33484ab5e5189dbe5cd4ceef570ffa93174ac5a27f1f351017bd0ed2a&f=.m3u8
+#EXTINF:0,TLNOVELAS
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TLNOVELAS%202&u=regio36&exp=1794100665&sig=7357220a63f3de1ff76fcb0eca0dec474e36ec9d85b6c477a21e01f8bb4e939b&f=.m3u8
+#EXTINF:0,TELERITMO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TELERITMO&u=regio36&exp=1794100665&sig=5ddd61ec38225543d0430e8ef0ca93aade90cc0088a2d1f736910070e3fa2000&f=.m3u8
+#EXTINF:0,TLNOVELAS HD
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TLNOVELAS%20HD&u=regio36&exp=1794100665&sig=8eae405cb5d7d142974fd742167b9d14cc9dc868a6c6c90f1f63a96744dc5bd6&f=.m3u8
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TNT%202&u=regio36&exp=1794100665&sig=3e1e21670a62187804ab9cfd0dc1241ed3ffa9864d087853a19d6432f9b72abc&f=.m3u8
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TNT%20HD&u=regio36&exp=1794100665&sig=aabe564b222e4078a89f2488fc1a139049c6d089a6496baad3f1308bca9e36a5&f=.m3u8
+#EXTINF:0,TNT SERIES HD
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=TNT%20SERIES%20HD&u=regio36&exp=1794100665&sig=143902d9f8f9309d42e5943205928b7810c782cfcb0bb691f8653b89dc630521&f=.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=UNIVERSAL%20CHANNEL&u=regio36&exp=1794100665&sig=91d0f6f1b8529b5482ec43a8ddc781ad38788893b9a47d1b75d4775b6027ab8f&f=.m3u8
+#EXTINF:0,WARNER
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=WARNER&u=regio36&exp=1794100665&sig=2b0f7714cdf1d04512b579ffdda1f79fb504c0f335e2f1a827511a289c280750&f=.m3u8
+#EXTINF:0,LOS 40ZAMORA
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=LOS%2040ZAMORA&u=regio36&exp=1794100665&sig=e8a7c1be460edd616f65f0a7006faa2efc719f3a0becf7ed5a63f4519af51f3b&f=.m3u8
+#EXTINF:0,ENERGEEK RETRO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ENERGEEK%20RETRO&u=regio36&exp=1794100665&sig=bbd8b8a2aecb02239a0f7d5d796762ae86c7021d0b7dbc2975d5c2ceed7db4b8&f=.m3u8
+#EXTINF:0,ENERGEEK FAN
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=ENERGEEK%20FAN&u=regio36&exp=1794100665&sig=21fca140f78ff55e07ed5b08737d2fd6c27cba5ef40a96a95d2cc4a6c8288977&f=.m3u8
+#EXTINF:0,WINSPORTS +
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=WINSPORTS%20%2B&u=regio36&exp=1794100665&sig=d6c3b5ab65bba5693961b1e18c74c499a60fcaa5bfe0f74fda72ca0a4cd77612&f=.m3u8
+#EXTINF:0,WINSPORTS
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=WINSPORTS&u=regio36&exp=1794100665&sig=bf2765a90cb1978b85a18d7c869c3755b6db1e3ebe1cfb6581dc523f909d79ed&f=.m3u8
+#EXTINF:0,CHESPIRITO
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=CHESPIRITO&u=regio36&exp=1794100665&sig=6995e091ffa4ea1d8e2f57b52742d46d9c63789f89fc83eae8e47e4a54fea1b5&f=.m3u8
+#EXTINF:0,CANAL 26 AGUASCALIENTES
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/regiotv_external.php?canal=CANAL%2026%20AGUASCALIENTES&u=regio36&exp=1794100665&sig=6a10197cd4d7953c07c8ec05e748ff795b8c8c59bc1a8a74b04a04abd768a2a6&f=.m3u8
+#EXTINF:0,Telemundo USA
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/rd_protegido.php?canal=telemundo&u=regio36&exp=1794100665&sig=dea8520f2ae4af3e9a4d8349e6eacd728d263de14fbfd6c36dae06ecf224a225&f=.m3u8
+#EXTINF:0,TUDN USA
+#EXTVLCOPT:network-caching=1000
+https://srregio.online/php/rd_protegido.php?canal=tudn&u=regio36&exp=1794100665&sig=72434bcbf909e36427ac1b1404fa846db65b1f4f22a205a0548ea30574b17c28&f=.m3u8
